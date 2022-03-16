@@ -1,0 +1,102 @@
+body{
+    background-color: #ecf0f1;
+}
+.menu:hover{
+    border: none;
+    color: white;
+    background-color: #c44569;
+}
+.item_active{
+    border: none;
+    color: white;
+    background-color: #c44569;
+}
+.name{
+    color: #273c75;
+    font-weight: bold;
+}
+.bg-elemts{
+    background-color: white;
+    border-radius: 1rem;
+}
+.titulo{
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.boton{
+    border: none;
+    color: white;
+    background-color: #c44569;
+    width: 6rem;
+    text-decoration: none;
+}
+.descarga{
+    border: none;
+    color: white;
+    background-color: #c44569;
+    width: 7rem;
+    height: 2.5rem;
+    text-decoration: none;
+}
+.svg{
+    width: 60%;
+    height: fit-content;
+}
+footer{
+    bottom: 0;
+    margin-top: 3.3rem;
+    background-color: rgba(0, 0, 0, 0.13);
+    color: black;
+    width: 100%;
+    font-size: small;
+}
+a{
+    color: #ef5777;
+}
+a:hover{
+    color: #f53b57;
+}
+.descripcion{
+    width: 100%;
+    background-color: #192a56;
+    color: white;
+    margin-top: 1rem;
+}
+.cont{
+    font-size: 1.2rem;
+}
+.img-recursos{
+    height: 14rem;
+}
+.mapa{
+    width: 100%;
+    height: 100%;
+}
+.formulario{
+    max-width: 100%;
+}
+.formulario_input, .formulario_submit{
+    display: block;
+    width: 100%;
+    font-size: 1.3em;
+}
+.formulario_input{
+    border-radius: 0.5rem;
+    padding: 1.2rem;
+    border: solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+.formulario_submit{
+    background-color: #c44569;
+    border-radius: 1rem;
+    border: none;
+    margin-top: 2.3rem;
+}
+textarea{
+    border-radius: 0.5rem;
+    padding: 1.2rem;
+    border: solid rgba(0, 0, 0, 0.1);
+    width: 100%;
+    font-size: 1.2em;
+    height: 12rem;
+}
